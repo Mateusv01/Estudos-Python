@@ -1,0 +1,9 @@
+;Esta linha não deve ser impressa.
+>Esta linha deve ser alinhada a direita
+*Esta linha deve ser centralizada
+Uma linha normal
+Duas linhas normais
+
+.teste de ponto
+
+=teste de igual
